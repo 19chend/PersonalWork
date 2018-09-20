@@ -10,7 +10,7 @@ double weight = 999.0;
 System.out.println("What is your age and weight?");
 age = input.nextInt();
 weight = input.nextDouble();
-System.out.println("You are "+age+" years old and weigh "+weight +" pounds.");
+System.out.println("You are "+age+" years old and weigh "+weight+" pounds.");
 
 	}
 
