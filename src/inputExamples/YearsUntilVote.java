@@ -11,6 +11,6 @@ System.out.println("What is your current age?");
 age = input.nextInt();
 years = 18 - age;
 System.out.println("It is "+years+" year(s) until you can vote.");
-	}
+input.close();}
 
 }
