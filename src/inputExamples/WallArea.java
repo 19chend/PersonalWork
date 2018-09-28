@@ -12,6 +12,6 @@ System.out.println("What is the width in feet of the 8ft tall wall?");
 width = input.nextInt();
 area = height * width;
 System.out.println("The wall has an area of "+area+" ft squared.");
-	}
+input.close();	}
 
 }
