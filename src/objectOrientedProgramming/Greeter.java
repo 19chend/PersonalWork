@@ -11,4 +11,8 @@ public Greeter()
 	//statements to initialize the state of the object
 }
 //methods - things the object can do
+public void sayHello()
+{
+	System.out.println("Hello");
+}
 }
