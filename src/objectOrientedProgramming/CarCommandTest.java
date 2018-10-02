@@ -12,6 +12,6 @@ CarCommands car = new CarCommands();
 car.sayOdometer(miles);
 car.sayFlat();
 car.sayThirsty();
-	}
+input.close();	}
 
 }
