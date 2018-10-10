@@ -4,7 +4,7 @@ public class Employee {
 	private double wage;
 	private int experience;
 public Employee(){
-wage = 11;
+wage = 11.5;
 experience = 10;
 }	
 public double getWage(){
