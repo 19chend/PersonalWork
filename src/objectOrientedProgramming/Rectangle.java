@@ -5,8 +5,12 @@ private double length;
 private double width;
 
 public Rectangle(){	
+length = -999.0;
+width = -999.0;
 }
-public Rectangle(double length, double width) {
+public Rectangle(double length1, double width1) {
+	length = length1;
+	width = width1;
 	
 }
 public double returnLength() {

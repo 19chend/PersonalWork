@@ -5,7 +5,8 @@ private double radius;
 public Circle(){
 	radius = -999.0;
 }
-public Circle(double radius){
+public Circle(double newRadius){
+	radius = newRadius;
 }
 public double returnRadius(){
 	return radius;
