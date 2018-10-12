@@ -14,12 +14,11 @@ public int getSleep() {
 	return sleep;
 }
 public int getBirthday() {
-<<<<<<< HEAD
 	age++;
 	return age;
-=======
-	return age+1;
->>>>>>> OOP
+}
+public void setSleep(int newSleep) {
+	sleep = newSleep;
 }
 public void setAge(int newAge){
 	age = newAge;
